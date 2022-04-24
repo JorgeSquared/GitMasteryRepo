@@ -1,1 +1,2 @@
 This is the contents of file3.txt
+This row was added via gitHub
